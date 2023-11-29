@@ -1,0 +1,5 @@
+Average income is: $27524.03
+Innercity region max age: 67 Rural region max age: 67 Suburban region max age: 67 Town region max age: 67
+Innercity region min age: 18 Rural region min age: 18 Suburban region min age: 18 Town region min age: 19
+Number of Females with mortgages : 95
+Innercity region males with car & children: 37 Rural region males with car & children: 17 Suburban region males with car & children: 8 Town region males with car & children: 27
